@@ -1,6 +1,9 @@
 {
   "name": "reveal-ghpages-test",
   "version": "0.0.0",
+  "scripts": {
+      "prepublish": "mkdir .dist/ && cp index.html .dist/index.html"
+  },
   "devDependencies": {
     "reveal.js": "^3.4.0"
   }
