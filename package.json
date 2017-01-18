@@ -1,0 +1,7 @@
+{
+  "name": "reveal-ghpages-test",
+  "version": "0.0.0",
+  "devDependencies": {
+    "reveal.js": "^3.4.0"
+  }
+}
